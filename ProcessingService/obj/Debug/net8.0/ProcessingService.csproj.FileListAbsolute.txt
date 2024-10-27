@@ -1,0 +1,17 @@
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/bin/Debug/net8.0/ProcessingService
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/bin/Debug/net8.0/ProcessingService.deps.json
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/bin/Debug/net8.0/ProcessingService.runtimeconfig.json
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/bin/Debug/net8.0/ProcessingService.dll
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/bin/Debug/net8.0/ProcessingService.pdb
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.csproj.AssemblyReference.cache
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.AssemblyInfoInputs.cache
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.AssemblyInfo.cs
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.csproj.CoreCompileInputs.cache
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/Processi.8726096B.Up2Date
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.dll
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/refint/ProcessingService.dll
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.pdb
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ProcessingService.genruntimeconfig.cache
+/Users/Umid_Rahimov/Documents/C#-Apps/MessageQueues/ProcessingService/obj/Debug/net8.0/ref/ProcessingService.dll
